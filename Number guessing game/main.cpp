@@ -2,6 +2,10 @@
 #include <ctime>
 #include <cstdlib>
 
+//developed by R.A Baloyi//
+//under C++ basics//
+//March 2025//
+
 using namespace std;
 //____________________________________Function prototypes_______________________________________________//
 
