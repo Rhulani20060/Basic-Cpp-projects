@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1750425715 source:c:\users\andre\onedrive\documents\private\c++ basic projects\cyberattackidtool\main.cpp
+	"Lib_AttackType.h"
+
+1750425251 c:\users\andre\onedrive\documents\private\c++ basic projects\cyberattackidtool\lib_attacktype.h
+	<iostream>
+
+1750425311 source:c:\users\andre\onedrive\documents\private\c++ basic projects\cyberattackidtool\lib_attacktype.cpp
+	"Lib_AttackType.h"
+
